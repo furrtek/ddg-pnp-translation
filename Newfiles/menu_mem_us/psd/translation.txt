@@ -1,0 +1,67 @@
+18 to 144: TODO
+
+282: Morning
+283: Noon
+284: TODO
+285: Night
+
+286: Fine weather
+287: TODO
+288: Rain
+289: Thunder
+290: Snow
+
+323: Enabled
+324: Disabled
+
+325: Normal
+326: Digital
+
+328: In-car announcement
+375: No/Weak/Medium/Strong
+376: TODO
+377: Vibration strength
+378: Operation type
+
+429: Speedometer display
+430: Distance meter display
+431: G-sensor display
+432: Navigation display
+433: Sign/Signal display
+434: Constant traffic/Constant speed/Constant speed zone (Speed limit display ?)
+435: Screen position
+
+547: TODO
+548: TODO
+549: TODO
+
+553: Introductory diagram
+554: TODO
+555: Rapid
+556: TODO
+557: TODO
+558: Commuter express
+
+581 to 600: TODO
+602 to 612: TODO
+
+613: Sound settings
+614: Controller
+
+615 to 624: TODO
+625: Cruel Angel's Thesis
+
+626: Not purchased
+
+671: Rising
+672: Falling
+673: Inside
+674: Outer
+
+689: TODO
+690: Audio settings
+691: BGM volume
+692: Driver volume
+693: Conductor volume
+694: SE volume
+695: Train running sound volume
